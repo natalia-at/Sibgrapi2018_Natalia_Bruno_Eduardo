@@ -4,4 +4,10 @@ This repository was created to share and show the material used to write the pap
 
 The paper was written by Natalia Teixeira, Bruno Chaves and Eduardo Peixoto, all three of them from Universidade de Brasilia.
 
-The material we're sharing here includes images and codes and they are organized in two folders.
+The material we're sharing here includes images and codes and they are organized in three folders:
+
+-Codes;
+
+-Images;
+
+-Results.
